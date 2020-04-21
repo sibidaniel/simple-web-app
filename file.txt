@@ -1,2 +1,4 @@
 these is first file in git repo
 there is second file line
+just adding some content to create merge conflicts
+
